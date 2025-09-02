@@ -81,11 +81,16 @@ panini-dashboard/
   - File: `tableau/Player_level_dashboard.twbx`  
   - Data: `Player_level_dashboard.csv` + `players.csv`  
   - Tableau Public: [View Online](https://public.tableau.com/views/PaniniPlayerSummery_Final3/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+  - Preview:  
+    ![Player Dashboard](docs/screenshots/player_dashboard.png)
 
 - **Overall Year/Program Dashboard**  
   - File: `tableau/Overall_summary_dashboard.twbx`  
   - Data: `panini_year_summary.csv`  
-  - Tableau Public: [View Online](https://public.tableau.com/views/PaniniFootballCardProductionDashboard20202024/UniqueautosDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+  - Tableau Public: [View Online](https://public.tableau.com/app/profile/YOUR_PROFILE/viz/Overall_summary_dashboard)  
+  - Preview:  
+    ![Yearly Dashboard](docs/screenshots/year_dashboard.png)
+
 
 ---
 

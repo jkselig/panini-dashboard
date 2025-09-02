@@ -35,10 +35,12 @@ panini-dashboard/
 │   ├── master_checklist.md
 │   ├── data_dictionary.md
 │   ├── data_sources.md
-│   └── architecture.md   # optional
+│   ├── architecture.md   # optional
+│   └── screenshots/
+│       ├── player_dashboard.png
+│       └── year_dashboard.png
 │
 ├── .gitignore
-├── LICENSE
 └── README.md
 ```
 
@@ -81,11 +83,15 @@ panini-dashboard/
   - File: `tableau/Player_level_dashboard.twbx`  
   - Data: `Player_level_dashboard.csv` + `players.csv`  
   - Tableau Public: [View Online](https://public.tableau.com/views/PaniniPlayerSummery_Final3/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+  - Preview:  
+    ![Player Dashboard](docs/screenshots/player_dashboard.png)
 
 - **Overall Year/Program Dashboard**  
   - File: `tableau/Overall_summary_dashboard.twbx`  
   - Data: `panini_year_summary.csv`  
-  - Tableau Public: [View Online](https://public.tableau.com/views/PaniniFootballCardProductionDashboard20202024/UniqueautosDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+  - Tableau Public: [View Online](https://public.tableau.com/app/profile/YOUR_PROFILE/viz/Overall_summary_dashboard)  
+  - Preview:  
+    ![Yearly Dashboard](docs/screenshots/year_dashboard.png)
 
 ---
 
@@ -107,7 +113,7 @@ panini-dashboard/
 - `combine_checklists_by_year.py` → combines all raw checklists for a given year into `{year}_master.csv`  
 - `combine_all_years.py` → stacks yearly masters into `panini_master.csv` (multi-year)  
 
-> Requires `pandas` (tested with pandas 2.x)  
+> Requires `pandas`  
 
 ---
 
@@ -119,7 +125,7 @@ panini-dashboard/
 
 ---
 
-## Key Insights (examples)
+## Key Insights
 
 - Thousands of unique Panini football cards analyzed (2020–2024).  
 - Autographed cards account for a significant share, with QB rookies dominating.  

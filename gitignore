@@ -1,0 +1,20 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs
+*.log
+
+# Data - ignore large or temporary exports
+data/*.zip
+data/*.parquet
+data/*_export_*.csv
+
+# Secrets (if any)
+.env

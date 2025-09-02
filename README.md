@@ -85,7 +85,7 @@ panini-dashboard/
 - **Overall Year/Program Dashboard**  
   - File: `tableau/Overall_summary_dashboard.twbx`  
   - Data: `panini_year_summary.csv`  
-  - Tableau Public: [View Online]	(https://public.tableau.com/views/PaniniFootballCardProductionDashboard20202024/UniqueautosDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+  - Tableau Public: [View Online](https://public.tableau.com/views/PaniniFootballCardProductionDashboard20202024/UniqueautosDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 ---
 
@@ -124,9 +124,3 @@ panini-dashboard/
 - Thousands of unique Panini football cards analyzed (2020–2024).  
 - Autographed cards account for a significant share, with QB rookies dominating.  
 - Tableau dashboards allow filtering by player, year, program, and card set.  
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License – see [LICENSE](LICENSE).  

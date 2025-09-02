@@ -92,10 +92,6 @@ panini-dashboard/
   - Tableau Public: [View Online](https://public.tableau.com/app/profile/YOUR_PROFILE/viz/Overall_summary_dashboard)  
   - Preview:  
     ![Yearly Dashboard](docs/screenshots/year_dashboard.png)
-<<<<<<< HEAD
-=======
-
->>>>>>> a1941638cd3fcef4748e7e6acfc298174f15d5d5
 
 ---
 

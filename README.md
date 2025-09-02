@@ -2,6 +2,7 @@
 
 SQL + Tableau pipeline analyzing Panini football card checklists (2020–2024).  
 This project cleans and normalizes raw Panini checklists, builds summary tables, and powers Tableau dashboards for year-level and player-level analysis.  
+Tableau Public Profile: [jkselig](https://public.tableau.com/app/profile/jkselig)
 
 ---
 

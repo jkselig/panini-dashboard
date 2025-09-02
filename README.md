@@ -85,7 +85,7 @@ panini-dashboard/
 - **Overall Year/Program Dashboard**  
   - File: `tableau/Overall_summary_dashboard.twbx`  
   - Data: `panini_year_summary.csv`  
-  - Tableau Public: [View Online]	(https://public.tableau.com/views/PaniniFootballCardProductionDashboard20202024/UniqueautosDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+  - Tableau Public: [View Online](https://public.tableau.com/views/PaniniFootballCardProductionDashboard20202024/UniqueautosDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 ---
 
